@@ -1,0 +1,102 @@
+[
+    {
+        "ProdutoID": "prod-112233445",
+        "NomeAtributo": "Material",
+        "ValorAtributo": "Vidro temperado"
+    },
+    {
+        "ProdutoID": "prod-112233445",
+        "NomeAtributo": "Estilo",
+        "ValorAtributo": "Moderno"
+    },
+    {
+        "ProdutoID": "prod-223344556",
+        "NomeAtributo": "Tipo de lâmpada",
+        "ValorAtributo": "LED"
+    },
+    {
+        "ProdutoID": "prod-223344556",
+        "NomeAtributo": "Voltagem",
+        "ValorAtributo": "110V/220V"
+    },
+    {
+        "ProdutoID": "prod-334455667",
+        "NomeAtributo": "Origem",
+        "ValorAtributo": "Importado"
+    },
+    {
+        "ProdutoID": "prod-334455667",
+        "NomeAtributo": "Material",
+        "ValorAtributo": "Lã"
+    },
+    {
+        "ProdutoID": "prod-445566778",
+        "NomeAtributo": "Capacidade",
+        "ValorAtributo": "300ml cada"
+    },
+    {
+        "ProdutoID": "prod-445566778",
+        "NomeAtributo": "Inclui",
+        "ValorAtributo": "4 canecas"
+    },
+    {
+        "ProdutoID": "prod-556677889",
+        "NomeAtributo": "Tipo de cadeira",
+        "ValorAtributo": "Ergonômica"
+    },
+    {
+        "ProdutoID": "prod-556677889",
+        "NomeAtributo": "Características",
+        "ValorAtributo": "Ajustável com suporte lombar"
+    },
+    {
+        "ProdutoID": "prod-667788990",
+        "NomeAtributo": "Tipo de bicicleta",
+        "ValorAtributo": "Mountain bike"
+    },
+    {
+        "ProdutoID": "prod-667788990",
+        "NomeAtributo": "Suspensão",
+        "ValorAtributo": "Dianteira"
+    },
+    {
+        "ProdutoID": "prod-778899001",
+        "NomeAtributo": "Impermeabilidade",
+        "ValorAtributo": "100% impermeável"
+    },
+    {
+        "ProdutoID": "prod-778899001",
+        "NomeAtributo": "Garantia",
+        "ValorAtributo": "1 ano"
+    },
+    {
+        "ProdutoID": "prod-889900112",
+        "NomeAtributo": "Funcionalidades",
+        "ValorAtributo": "Monitoramento de atividades"
+    },
+    {
+        "ProdutoID": "prod-889900112",
+        "NomeAtributo": "Resistência à água",
+        "ValorAtributo": "Até 50 metros"
+    },
+    {
+        "ProdutoID": "prod-990011223",
+        "NomeAtributo": "Capacidade",
+        "ValorAtributo": "40 litros"
+    },
+    {
+        "ProdutoID": "prod-990011223",
+        "NomeAtributo": "Compartimentos especiais",
+        "ValorAtributo": "Para laptop e documentos"
+    },
+    {
+        "ProdutoID": "prod-001122334",
+        "NomeAtributo": "Material",
+        "ValorAtributo": "Antiaderente"
+    },
+    {
+        "ProdutoID": "prod-001122334",
+        "NomeAtributo": "Peças incluídas",
+        "ValorAtributo": "5 peças"
+    }
+]

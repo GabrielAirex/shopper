@@ -1,0 +1,52 @@
+[
+    {
+        "ProdutoID": "prod-112233445",
+        "LojaID": "str-2345666",
+        "Quantidade": 25
+    },
+    {
+        "ProdutoID": "prod-223344556",
+        "LojaID": "str-3456777",
+        "Quantidade": 30
+    },
+    {
+        "ProdutoID": "prod-334455667",
+        "LojaID": "str-4567888",
+        "Quantidade": 12
+    },
+    {
+        "ProdutoID": "prod-445566778",
+        "LojaID": "str-5678999",
+        "Quantidade": 40
+    },
+    {
+        "ProdutoID": "prod-556677889",
+        "LojaID": "str-6789000",
+        "Quantidade": 35
+    },
+    {
+        "ProdutoID": "prod-667788990",
+        "LojaID": "str-7890111",
+        "Quantidade": 20
+    },
+    {
+        "ProdutoID": "prod-778899001",
+        "LojaID": "str-8901222",
+        "Quantidade": 18
+    },
+    {
+        "ProdutoID": "prod-889900112",
+        "LojaID": "str-9012333",
+        "Quantidade": 50
+    },
+    {
+        "ProdutoID": "prod-990011223",
+        "LojaID": "str-0123444",
+        "Quantidade": 22
+    },
+    {
+        "ProdutoID": "prod-001122334",
+        "LojaID": "str-1234556",
+        "Quantidade": 15
+    }
+]

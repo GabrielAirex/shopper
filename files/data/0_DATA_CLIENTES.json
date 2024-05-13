@@ -1,0 +1,82 @@
+[
+    {
+        "ClienteID": "usr-345678901",
+        "Nome": "Ana Pereira",
+        "Email": "ana.pereira@example.com",
+        "Telefone": "81987654321",
+        "Endereço": "Av. Boa Viagem, 210, Recife, PE",
+        "TipoCliente": "comprador"
+    },
+    {
+        "ClienteID": "usr-234567890",
+        "Nome": "Lucas Martins",
+        "Email": "lucas.martins@example.com",
+        "Telefone": "71987654321",
+        "Endereço": "Praça da Sé, 100, Salvador, BA",
+        "TipoCliente": "vendedor"
+    },
+    {
+        "ClienteID": "usr-456789012",
+        "Nome": "Cláudia Gomes",
+        "Email": "claudia.gomes@example.com",
+        "Telefone": "61987654321",
+        "Endereço": "Setor Comercial Sul, 500, Brasília, DF",
+        "TipoCliente": "comprador"
+    },
+    {
+        "ClienteID": "usr-567890123",
+        "Nome": "Roberto Lima",
+        "Email": "roberto.lima@example.com",
+        "Telefone": "85987654321",
+        "Endereço": "Rua Major Facundo, 900, Fortaleza, CE",
+        "TipoCliente": "vendedor"
+    },
+    {
+        "ClienteID": "usr-678901234",
+        "Nome": "Fernanda Castro",
+        "Email": "fernanda.castro@example.com",
+        "Telefone": "51987654321",
+        "Endereço": "Moinhos de Vento, 321, Porto Alegre, RS",
+        "TipoCliente": "comprador"
+    },
+    {
+        "ClienteID": "usr-789012345",
+        "Nome": "Sérgio Moura",
+        "Email": "sergio.moura@example.com",
+        "Telefone": "41987654321",
+        "Endereço": "Rua XV de Novembro, 89, Curitiba, PR",
+        "TipoCliente": "vendedor"
+    },
+    {
+        "ClienteID": "usr-890123456",
+        "Nome": "Patrícia Freitas",
+        "Email": "patricia.freitas@example.com",
+        "Telefone": "31987654321",
+        "Endereço": "Savassi, 120, Belo Horizonte, MG",
+        "TipoCliente": "comprador"
+    },
+    {
+        "ClienteID": "usr-901234567",
+        "Nome": "Ricardo Oliveira",
+        "Email": "ricardo.oliveira@example.com",
+        "Telefone": "21987654322",
+        "Endereço": "Copacabana, 1500, Rio de Janeiro, RJ",
+        "TipoCliente": "vendedor"
+    },
+    {
+        "ClienteID": "usr-012345678",
+        "Nome": "Juliana Machado",
+        "Email": "juliana.machado@example.com",
+        "Telefone": "11987654322",
+        "Endereço": "Avenida Paulista, 1800, São Paulo, SP",
+        "TipoCliente": "comprador"
+    },
+    {
+        "ClienteID": "usr-123456788",
+        "Nome": "Carlos Alberto",
+        "Email": "carlos.alberto@example.com",
+        "Telefone": "61987654322",
+        "Endereço": "Lago Sul, QI 26, Brasília, DF",
+        "TipoCliente": "vendedor"
+    }
+]

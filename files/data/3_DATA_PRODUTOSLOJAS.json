@@ -1,0 +1,72 @@
+[
+    {
+        "ProdutoID": "prod-112233445",
+        "LojaID": "str-2345666",
+        "PreçoEspecial": 400.00,
+        "CondiçõesEspeciais": "15% de desconto para pagamentos à vista",
+        "Promocao": true
+    },
+    {
+        "ProdutoID": "prod-223344556",
+        "LojaID": "str-3456777",
+        "PreçoEspecial": 79.99,
+        "CondiçõesEspeciais": "Compre um, leve outro com 50% de desconto",
+        "Promocao": true
+    },
+    {
+        "ProdutoID": "prod-334455667",
+        "LojaID": "str-4567888",
+        "PreçoEspecial": 550.00,
+        "CondiçõesEspeciais": "Frete grátis para compras acima de R$ 500",
+        "Promocao": true
+    },
+    {
+        "ProdutoID": "prod-445566778",
+        "LojaID": "str-5678999",
+        "PreçoEspecial": 60.00,
+        "CondiçõesEspeciais": "10% de desconto na compra de dois conjuntos",
+        "Promocao": true
+    },
+    {
+        "ProdutoID": "prod-556677889",
+        "LojaID": "str-6789000",
+        "PreçoEspecial": 950.00,
+        "CondiçõesEspeciais": "20% de desconto para membros do clube de fidelidade",
+        "Promocao": true
+    },
+    {
+        "ProdutoID": "prod-667788990",
+        "LojaID": "str-7890111",
+        "PreçoEspecial": 1100.00,
+        "CondiçõesEspeciais": "Inclui um kit de manutenção gratuito",
+        "Promocao": true
+    },
+    {
+        "ProdutoID": "prod-778899001",
+        "LojaID": "str-8901222",
+        "PreçoEspecial": 280.00,
+        "CondiçõesEspeciais": "Desconto de 20 reais em compras na próxima temporada",
+        "Promocao": true
+    },
+    {
+        "ProdutoID": "prod-889900112",
+        "LojaID": "str-9012333",
+        "PreçoEspecial": 179.90,
+        "CondiçõesEspeciais": "Garantia estendida de 1 ano incluída",
+        "Promocao": true
+    },
+    {
+        "ProdutoID": "prod-990011223",
+        "LojaID": "str-0123444",
+        "PreçoEspecial": 130.00,
+        "CondiçõesEspeciais": "Compre junto uma capa por apenas R$ 20 a mais",
+        "Promocao": true
+    },
+    {
+        "ProdutoID": "prod-001122334",
+        "LojaID": "str-1234556",
+        "PreçoEspecial": 200.00,
+        "CondiçõesEspeciais": "5% de desconto em pagamentos com PIX",
+        "Promocao": true
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "VendaID": "venda003",
+        "ProdutoID": "prod-112233445",
+        "ClienteID": "usr-345678901",
+        "LojaID": "str-2345666",
+        "Quantidade": 3,
+        "DataVenda": "2024-04-13"
+    },
+    {
+        "VendaID": "venda004",
+        "ProdutoID": "prod-223344556",
+        "ClienteID": "usr-234567890",
+        "LojaID": "str-3456777",
+        "Quantidade": 2,
+        "DataVenda": "2024-04-14"
+    },
+    {
+        "VendaID": "venda005",
+        "ProdutoID": "prod-334455667",
+        "ClienteID": "usr-456789012",
+        "LojaID": "str-4567888",
+        "Quantidade": 1,
+        "DataVenda": "2024-04-15"
+    },
+    {
+        "VendaID": "venda006",
+        "ProdutoID": "prod-445566778",
+        "ClienteID": "usr-567890123",
+        "LojaID": "str-5678999",
+        "Quantidade": 4,
+        "DataVenda": "2024-04-16"
+    },
+    {
+        "VendaID": "venda007",
+        "ProdutoID": "prod-556677889",
+        "ClienteID": "usr-678901234",
+        "LojaID": "str-6789000",
+        "Quantidade": 5,
+        "DataVenda": "2024-04-17"
+    },
+    {
+        "VendaID": "venda008",
+        "ProdutoID": "prod-667788990",
+        "ClienteID": "usr-789012345",
+        "LojaID": "str-7890111",
+        "Quantidade": 2,
+        "DataVenda": "2024-04-18"
+    },
+    {
+        "VendaID": "venda009",
+        "ProdutoID": "prod-778899001",
+        "ClienteID": "usr-890123456",
+        "LojaID": "str-8901222",
+        "Quantidade": 3,
+        "DataVenda": "2024-04-19"
+    },
+    {
+        "VendaID": "venda010",
+        "ProdutoID": "prod-889900112",
+        "ClienteID": "usr-901234567",
+        "LojaID": "str-9012333",
+        "Quantidade": 2,
+        "DataVenda": "2024-04-20"
+    },
+    {
+        "VendaID": "venda011",
+        "ProdutoID": "prod-990011223",
+        "ClienteID": "usr-012345678",
+        "LojaID": "str-0123444",
+        "Quantidade": 1,
+        "DataVenda": "2024-04-21"
+    },
+    {
+        "VendaID": "venda012",
+        "ProdutoID": "prod-001122334",
+        "ClienteID": "usr-123456788",
+        "LojaID": "str-1234556",
+        "Quantidade": 3,
+        "DataVenda": "2024-04-22"
+    },
+    {
+        "VendaID": "venda013",
+        "ProdutoID": "prod-112233445",
+        "ClienteID": "usr-123456789",
+        "LojaID": "str-2345666",
+        "Quantidade": 2,
+        "DataVenda": "2024-04-23"
+    },
+    {
+        "VendaID": "venda014",
+        "ProdutoID": "prod-223344556",
+        "ClienteID": "usr-234567890",
+        "LojaID": "str-3456777",
+        "Quantidade": 1,
+        "DataVenda": "2024-04-24"
+    },
+    {
+        "VendaID": "venda015",
+        "ProdutoID": "prod-334455667",
+        "ClienteID": "usr-456789012",
+        "LojaID": "str-4567888",
+        "Quantidade": 4,
+        "DataVenda": "2024-04-25"
+    },
+    {
+        "VendaID": "venda016",
+        "ProdutoID": "prod-445566778",
+        "ClienteID": "usr-567890123",
+        "LojaID": "str-5678999",
+        "Quantidade": 3,
+        "DataVenda": "2024-04-26"
+    },
+    {
+        "VendaID": "venda017",
+        "ProdutoID": "prod-556677889",
+        "ClienteID": "usr-678901234",
+        "LojaID": "str-6789000",
+        "Quantidade": 1,
+        "DataVenda": "2024-04-27"
+    },
+    {
+        "VendaID": "venda018",
+        "ProdutoID": "prod-667788990",
+        "ClienteID": "usr-789012345",
+        "LojaID": "str-7890111",
+        "Quantidade": 5,
+        "DataVenda": "2024-04-28"
+    },
+    {
+        "VendaID": "venda019",
+        "ProdutoID": "prod-778899001",
+        "ClienteID": "usr-890123456",
+        "LojaID": "str-8901222",
+        "Quantidade": 2,
+        "DataVenda": "2024-04-29"
+    },
+    {
+        "VendaID": "venda020",
+        "ProdutoID": "prod-889900112",
+        "ClienteID": "usr-901234567",
+        "LojaID": "str-9012333",
+        "Quantidade": 3,
+        "DataVenda": "2024-04-30"
+    },
+    {
+        "VendaID": "venda021",
+        "ProdutoID": "prod-990011223",
+        "ClienteID": "usr-012345678",
+        "LojaID": "str-0123444",
+        "Quantidade": 4,
+        "DataVenda": "2024-05-01"
+    },
+    {
+        "VendaID": "venda022",
+        "ProdutoID": "prod-001122334",
+        "ClienteID": "usr-123456788",
+        "LojaID": "str-1234556",
+        "Quantidade": 2,
+        "DataVenda": "2024-05-02"
+    }
+]

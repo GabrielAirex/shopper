@@ -1,0 +1,72 @@
+[
+    {
+        "LojaID": "str-2345666",
+        "VendedorID": "usr-123456789",
+        "NomeLoja": "Decora Casa",
+        "Descrição": "Especializada em decoração de interiores e móveis modernos.",
+        "EndereçoLoja": "Rua das Palmeiras, 102, São Paulo, SP"
+    },
+    {
+        "LojaID": "str-3456777",
+        "VendedorID": "usr-234567890",
+        "NomeLoja": "TechTop",
+        "Descrição": "Venda de eletrônicos de última geração e acessórios.",
+        "EndereçoLoja": "Avenida Central, 500, Belo Horizonte, MG"
+    },
+    {
+        "LojaID": "str-4567888",
+        "VendedorID": "usr-345678901",
+        "NomeLoja": "Moda Jovem",
+        "Descrição": "Loja de roupas focada no público jovem e adolescente.",
+        "EndereçoLoja": "Shopping Estação, Loja 220, Curitiba, PR"
+    },
+    {
+        "LojaID": "str-5678999",
+        "VendedorID": "usr-456789012",
+        "NomeLoja": "Bike & Adventure",
+        "Descrição": "Equipamentos e bicicletas para esportes ao ar livre.",
+        "EndereçoLoja": "Rua da Aventura, 75, Porto Alegre, RS"
+    },
+    {
+        "LojaID": "str-6789000",
+        "VendedorID": "usr-567890123",
+        "NomeLoja": "Café Gourmet",
+        "Descrição": "Seleção de cafés gourmet e acessórios para baristas.",
+        "EndereçoLoja": "Avenida do Café, 345, Recife, PE"
+    },
+    {
+        "LojaID": "str-7890111",
+        "VendedorID": "usr-678901234",
+        "NomeLoja": "Pets Felizes",
+        "Descrição": "Produtos e acessórios para o bem-estar dos seus animais de estimação.",
+        "EndereçoLoja": "Rua dos Animais, 900, Fortaleza, CE"
+    },
+    {
+        "LojaID": "str-8901222",
+        "VendedorID": "usr-789012345",
+        "NomeLoja": "Papéis & Cores",
+        "Descrição": "Material de papelaria, escrita e artes visuais.",
+        "EndereçoLoja": "Avenida dos Estudantes, 1100, Salvador, BA"
+    },
+    {
+        "LojaID": "str-9012333",
+        "VendedorID": "usr-890123456",
+        "NomeLoja": "Fitness Pro",
+        "Descrição": "Suplementos nutricionais e equipamentos de ginástica.",
+        "EndereçoLoja": "Avenida Fitness, 78, Manaus, AM"
+    },
+    {
+        "LojaID": "str-0123444",
+        "VendedorID": "usr-901234567",
+        "NomeLoja": "Eco Moda",
+        "Descrição": "Roupas sustentáveis e ecologicamente corretas.",
+        "EndereçoLoja": "Shopping Verde, Loja 305, Goiânia, GO"
+    },
+    {
+        "LojaID": "str-1234556",
+        "VendedorID": "usr-012345678",
+        "NomeLoja": "Livros & Leituras",
+        "Descrição": "Ampla seleção de livros nacionais e importados, e espaços de leitura.",
+        "EndereçoLoja": "Rua dos Leitores, 198, Campo Grande, MS"
+    }
+]

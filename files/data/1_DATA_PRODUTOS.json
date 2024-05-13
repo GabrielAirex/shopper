@@ -1,0 +1,62 @@
+[
+    {
+        "ProdutoID": "prod-112233445",
+        "NomeProduto": "Mesa de Centro Moderna",
+        "DescriçãoProduto": "Mesa de centro em vidro temperado com pés de metal, ideal para salas contemporâneas.",
+        "Preço": 450.50
+    },
+    {
+        "ProdutoID": "prod-223344556",
+        "NomeProduto": "Luminária de Mesa LED",
+        "DescriçãoProduto": "Luminária de mesa com tecnologia LED, ajustável, perfeita para leitura ou escritório.",
+        "Preço": 89.99
+    },
+    {
+        "ProdutoID": "prod-334455667",
+        "NomeProduto": "Tapete Oriental",
+        "DescriçãoProduto": "Tapete estilo oriental, 200x150 cm, feito à mão, ideal para salas e quartos.",
+        "Preço": 600.00
+    },
+    {
+        "ProdutoID": "prod-445566778",
+        "NomeProduto": "Conjunto de Canecas de Porcelana",
+        "DescriçãoProduto": "Conjunto com 4 canecas de porcelana decoradas, capacidade de 300ml cada.",
+        "Preço": 70.00
+    },
+    {
+        "ProdutoID": "prod-556677889",
+        "NomeProduto": "Cadeira Ergonômica de Escritório",
+        "DescriçãoProduto": "Cadeira ergonômica ajustável, com suporte lombar, ideal para longas horas de trabalho.",
+        "Preço": 980.00
+    },
+    {
+        "ProdutoID": "prod-667788990",
+        "NomeProduto": "Bicicleta Mountain Bike",
+        "DescriçãoProduto": "Bicicleta mountain bike com 21 velocidades e suspensão dianteira, ideal para trilhas e terrenos irregulares.",
+        "Preço": 1200.00
+    },
+    {
+        "ProdutoID": "prod-778899001",
+        "NomeProduto": "Jaqueta Impermeável",
+        "DescriçãoProduto": "Jaqueta impermeável e respirável, disponível em várias cores, perfeita para atividades ao ar livre.",
+        "Preço": 299.90
+    },
+    {
+        "ProdutoID": "prod-889900112",
+        "NomeProduto": "Smartwatch Fitness",
+        "DescriçãoProduto": "Smartwatch com monitoramento de atividades físicas, sono, e batimentos cardíacos, resistente à água.",
+        "Preço": 199.90
+    },
+    {
+        "ProdutoID": "prod-990011223",
+        "NomeProduto": "Mochila de Viagem",
+        "DescriçãoProduto": "Mochila de viagem com capacidade de 40 litros, compartimentos para laptop e documentos, ideal para viagens curtas.",
+        "Preço": 150.00
+    },
+    {
+        "ProdutoID": "prod-001122334",
+        "NomeProduto": "Conjunto de Panelas Antiaderentes",
+        "DescriçãoProduto": "Conjunto de panelas antiaderentes de 5 peças, incluindo frigideira, caçarola e panelas com tampa.",
+        "Preço": 220.00
+    }
+]
